@@ -15,7 +15,7 @@ export const Home = ({ navigation }) => {
             title="CONTACTS"
             color="#368354"
             onPress={() => {
-              navigation.navigate("PhoneNumberNav");
+              navigation.navigate("CallNumber");
             }}
           />
         </View>
