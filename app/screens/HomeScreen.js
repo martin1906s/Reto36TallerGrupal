@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, Button } from "react-native";
 export const Home = ({ navigation }) => {
   return (
     <View style={styles.container}>
-      <Text> Bienvenido a mi aplicaion, soy Bryan 🐱‍🐉</Text>
+      <Text> Bienvenido a mi aplicaion, soy Bryan 🐱‍🐉.</Text>
       <Text>
         El trabajo duro vence al talento cuando el talento no se esta
         esforzando.
