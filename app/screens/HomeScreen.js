@@ -24,7 +24,7 @@ export const Home = ({ navigation }) => {
           title="PRODUCTOS"
           color="#368354"
           onPress={() => {
-            navigation.navigate("ProductNav");
+            navigation.navigate("ProductNavigation");
           }}
         />
       </View>
